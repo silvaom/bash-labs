@@ -1,0 +1,4 @@
+#vars
+
+fecha=$(date +%m-%d-%Y)
+correo="omar.silva@globant.com"
